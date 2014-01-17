@@ -1,4 +1,4 @@
-=== Add Mime Types ===
+=== View Shortcodes ===
 Contributors: Kimiya Kitani
 Tags: mime
 Requires at least: 3.0
