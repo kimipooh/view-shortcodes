@@ -17,12 +17,13 @@ You can select and copy the active shortcodes.
 The operation is the simple.
 Please install this plugin and activate it.
 
-= Usage =
 Source: https://github.com/kimipooh/view-shortcodes
 
 
 == Frequently Asked Questions ==
-
+= How to change the column number =
+Please change $line_max value in function view_shortcodes_admin_settings_page by directly editing plugin file.
+Default is the 4 column in one line.
 
 == Screenshots ==
 
