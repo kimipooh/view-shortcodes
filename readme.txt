@@ -18,6 +18,7 @@ The operation is the simple.
 Please install this plugin and activate it.
 
 = Usage =
+Source: https://github.com/kimipooh/view-shortcodes
 
 
 == Frequently Asked Questions ==
