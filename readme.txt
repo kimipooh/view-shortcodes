@@ -2,7 +2,7 @@
 Contributors: Kimiya Kitani
 Tags: mime
 Requires at least: 3.0
-Tested up to: 3.8.1
+Tested up to: 3.8
 Stable tag: 1.0.0
 
 The plugin is for displaying active shortcodes.
