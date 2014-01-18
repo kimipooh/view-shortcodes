@@ -35,7 +35,7 @@ function view_shortcodes_admin_settings_page(){
   $tags_names = "";
   foreach($shortcode_tags as $name=>$value)
     $tags_names[] = $name;
-  sort(&$tags_names);
+  sort($tags_names);
 
   $i_max = count($tags_names);
   for($i=0; $i < $i_max; $i++){
