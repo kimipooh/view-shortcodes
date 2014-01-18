@@ -32,5 +32,6 @@ Source: https://github.com/kimipooh/view-shortcodes
 
 = 1.0.0 =
 Released.
+Multi Language Support (English and Japanese).
 
 == Upgrade Notice ==
