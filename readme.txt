@@ -2,8 +2,8 @@
 Contributors: Kimiya Kitani
 Tags: mime
 Requires at least: 3.0
-Tested up to: 3.9
-Stable tag: 1.1
+Tested up to: 4.0
+Stable tag: 1.3
 
 The plugin is for displaying active shortcodes.
  
@@ -30,7 +30,10 @@ Default is the 4 column in one line.
 1. View Active Shortcodes
 
 == Changelog ==
-
+= 1.3 =
+Tested up to WordPress 4.0
+= 1.2 =
+Tested up to WordPress 3.9.1
 = 1.1 =
 Tested up to WordPress 3.9
 = 1.0 =
