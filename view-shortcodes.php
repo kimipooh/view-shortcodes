@@ -3,7 +3,7 @@
 Plugin Name: View Shortcodes
 Plugin URI: 
 Description: The plugin is for displaying active shortcodes.
-Version: 1.3
+Version: 1.4
 Author: Kimiya Kitani
 Author URI: 
 */
