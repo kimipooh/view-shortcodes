@@ -3,9 +3,11 @@
 Plugin Name: View Shortcodes
 Plugin URI: 
 Description: The plugin is for displaying active shortcodes.
-Version: 1.5
+Version: 1.6
 Author: Kimiya Kitani
-Author URI: 
+Author URI: https://profiles.wordpress.org/kimipooh/
+Text Domain: view-shortcodes
+Domain Path: /languages
 */
 
 // Activate Language Files
@@ -55,4 +57,3 @@ function view_shortcodes_admin_settings_page(){
 </div>
 <?php
 }
-?>
