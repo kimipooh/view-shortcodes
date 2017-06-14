@@ -3,7 +3,7 @@
 Plugin Name: View Shortcodes
 Plugin URI: 
 Description: The plugin is for displaying active shortcodes.
-Version: 1.9
+Version: 2.0
 Author: Kimiya Kitani
 Author URI: https://profiles.wordpress.org/kimipooh/
 Text Domain: view-shortcodes
@@ -34,7 +34,7 @@ function view_shortcodes_admin_settings_page(){
 		<div style="overflow:scroll; height: 500px;">
 		<table>
 <?php
-  $tags_names = "";
+  $tags_names = array();
   foreach($shortcode_tags as $name=>$value)
     $tags_names[] = $name;
   sort($tags_names);
