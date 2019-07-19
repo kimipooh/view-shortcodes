@@ -2,9 +2,9 @@
 Contributors: Kimiya Kitani
 Tags: mime
 Requires at least: 4.0
-Tested up to: 5.0
+Tested up to: 5.2.2
 Requires PHP: 5.6
-Stable tag: 2.2
+Stable tag: 2.3
 License: GPL v2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -33,6 +33,9 @@ Default is the 4 column in one line.
 1. View Active Shortcodes
 
 == Changelog ==
+
+= 2.3 =
+* Tested up to WordPress 5.2.2 and PHP 7.3.
 
 = 2.2 =
 * Tested up to WordPress 5.0 and PHP 7.2.
