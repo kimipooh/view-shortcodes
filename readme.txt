@@ -2,7 +2,7 @@
 Contributors: Kimiya Kitani
 Tags: mime
 Requires at least: 4.0
-Tested up to: 5.2.2
+Tested up to: 5.6
 Requires PHP: 5.6
 Stable tag: 2.3
 License: GPL v2
@@ -36,6 +36,7 @@ Default is the 4 column in one line.
 
 = 2.3 =
 * Tested up to WordPress 5.2.2 and PHP 7.3.
+* Tested up to WordPress 5.6 and PHP 7.4.
 
 = 2.2 =
 * Tested up to WordPress 5.0 and PHP 7.2.
