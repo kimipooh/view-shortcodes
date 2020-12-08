@@ -14,7 +14,7 @@ class SampleTest extends WP_UnitTestCase {
 	 * A single example test.
 	 */
 	public function test_sample() {
-		var $flag = false;
+		$flag = false;
 		if(view_shortcodes_admin_settings_page())	$flag = true;
 		$this->assertIsBool($flag);
 	}
