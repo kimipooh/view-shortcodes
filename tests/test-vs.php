@@ -15,7 +15,8 @@ class SampleTest extends WP_UnitTestCase {
 	 */
 	public function test_sample() {
 		$flag = false;
-		if(view_shortcodes_admin_settings_page())	$flag = true;
+		if(view_shortcodes_admin_settings_page() != '' )
+			$flag = true;
 		$this->assertSame(true, $flag);
 	}
 }
