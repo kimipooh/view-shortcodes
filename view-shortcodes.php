@@ -11,7 +11,8 @@ Domain Path: /languages
 */
 
 // Activate Language Files
-load_plugin_textdomain('view-shortcodes');
+load_plugin_textdomain('view-shortcodes')
+    or  load_plugin_textdomain('view-shortcodes', '/'.str_replace(ABSPATH, '', dirname(__FILE__)) . 'languages/');
 
 add_action('admin_menu', 'add_to_view_shortocodes_settings_menu');
     
