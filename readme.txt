@@ -1,8 +1,8 @@
 === View Shortcodes ===
 Contributors: Kimiya Kitani
 Tags: mime
-Requires at least: 4.0
-Tested up to: 6.0
+Requires at least: 5.4
+Tested up to: 6.1
 Requires PHP: 5.6
 Stable tag: 2.4
 License: GPL v2
@@ -38,6 +38,8 @@ Default is the 4 column in one line.
 * Tested up to WordPress 5.6.2 and PHP 8.0.0.
 * Tested up to WordPress 5.8
 * Tested up to WordPress 6.0
+* Tested up to WordPress 6.1
+* Changed the supported version of WordPress from 4.0 to 5.4 or higher.
 
 = 2.3 =
 * Tested up to WordPress 5.2.2 and PHP 7.3.
