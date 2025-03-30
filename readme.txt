@@ -1,5 +1,5 @@
 === View Shortcodes ===
-Contributors: Kimiya Kitani
+Contributors: kimipooh
 Tags: mime
 Requires at least: 6.0
 Tested up to: 6.7.2
@@ -34,7 +34,7 @@ Default is the 4 column in one line.
 
 == Changelog ==
 = 2.5 =
-* Tested up to WordPress 6.7.2 and PHP 8.3.10 and 8.4.5
+* Tested up to WordPress 6.7.2 and PHP 8.3.19 and 8.4.5
 
 = 2.4 =
 * Fixed an argument warning of load_plugin_textdomain fucntion.
