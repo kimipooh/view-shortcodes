@@ -4,7 +4,7 @@ Tags: mime
 Requires at least: 6.0
 Tested up to: 6.7.2
 Requires PHP: 8.0
-Stable tag: 2.5
+Stable tag: 2.5.1
 License: GPL v2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -33,6 +33,9 @@ Default is the 4 column in one line.
 1. View Active Shortcodes
 
 == Changelog ==
+= 2.5.1 =
+* Fixed readme.txt 
+
 = 2.5 =
 * Tested up to WordPress 6.7.2 and PHP 8.3.19 and 8.4.5
 
