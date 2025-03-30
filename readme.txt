@@ -1,10 +1,10 @@
 === View Shortcodes ===
 Contributors: Kimiya Kitani
 Tags: mime
-Requires at least: 4.0
-Tested up to: 6.5.2
-Requires PHP: 5.6
-Stable tag: 2.4
+Requires at least: 6.0
+Tested up to: 6.7.2
+Requires PHP: 8.0
+Stable tag: 2.5
 License: GPL v2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -33,6 +33,9 @@ Default is the 4 column in one line.
 1. View Active Shortcodes
 
 == Changelog ==
+= 2.5 =
+* Tested up to WordPress 6.7.2 and PHP 8.3.10 and 8.4.5
+
 = 2.4 =
 * Fixed an argument warning of load_plugin_textdomain fucntion.
 * Tested up to WordPress 5.6.2 and PHP 8.0.0.
