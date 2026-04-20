@@ -1,0 +1,35 @@
+# secrets
+.env
+.env.*
+*.key
+*.pem
+credentials.json
+secrets.json
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# node
+node_modules/
+
+# logs
+*.log
+logs/
+
+# macOS
+.DS_Store
+
+# editor
+.vscode/
+.idea/
+
+# AI experiments
+experiments_ai/output/
+experiments_ai/tmp/
+
+# data cache
+cache/
+.tmp/
