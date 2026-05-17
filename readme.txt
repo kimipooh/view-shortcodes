@@ -2,11 +2,11 @@
 Contributors: kimipooh
 Tags: mime
 Requires at least: 6.0
-Tested up to: 6.7.2
+Tested up to: 7.0
 Requires PHP: 8.0
-Stable tag: 2.5.1
-License: GPL v2
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Stable tag: 1.6.0
+License: GPL v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 The plugin is for displaying active shortcodes.
  
@@ -33,6 +33,18 @@ Default is the 4 column in one line.
 1. View Active Shortcodes
 
 == Changelog ==
+= 1.6.0 =
+* Resolved Plugin Check errors and warnings.
+* Added direct file access protection.
+* Improved output escaping.
+* Added license information to the plugin header.
+* Updated translation loading to align with WordPress 4.6 and later automatic loading.
+* Changed the admin menu slug to a fixed string.
+* Tested with WordPress 7.0-RC4 and PHP 8.4.1.
+
+= 2.5.2 =
+* Fixed Plugin Check issues.
+
 = 2.5.1 =
 * Fixed readme.txt 
 
